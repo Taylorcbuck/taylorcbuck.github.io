@@ -274,10 +274,10 @@ a, a:hover {
   }
 }
 .profile-card__button:first-child {
-  margin-left: 0;
+  margin-left: ;
 }
 .profile-card__button:last-child {
-  margin-right: 0;
+  margin-right: ;
 }
 .profile-card__button.button--blue {
   background: linear-gradient(45deg, #1da1f2, #0e71c8);
